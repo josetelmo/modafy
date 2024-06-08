@@ -26,6 +26,6 @@
       },
       "link": "https://twitter.com/user2/status/2"
     }
-    // Adicione mais tweets simulados aqui
+    // Adicione mais tweets aqui e certifique-se de que cada entrada esteja separada por vírgulas
   ]
 }
