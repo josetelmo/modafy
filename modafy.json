@@ -1,0 +1,31 @@
+{
+  "tweets": [
+    {
+      "user": {
+        "name": "User1"
+      },
+      "text": "A ModaFy tem ótimos produtos!",
+      "stats": {
+        "likes": 10,
+        "quotes": 2,
+        "retweets": 5,
+        "comments": 3
+      },
+      "link": "https://twitter.com/user1/status/1"
+    },
+    {
+      "user": {
+        "name": "User2"
+      },
+      "text": "Não gostei da última coleção da ModaFy.",
+      "stats": {
+        "likes": 5,
+        "quotes": 1,
+        "retweets": 2,
+        "comments": 1
+      },
+      "link": "https://twitter.com/user2/status/2"
+    }
+    // Adicione mais tweets simulados aqui
+  ]
+}
