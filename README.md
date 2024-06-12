@@ -14,7 +14,7 @@ O objetivo deste trabalho é capacitar os alunos a realizarem uma análise compl
 - Utilizar o Scraper para coletar todas as notícias relacionadas à Modafy.
   - Confira as [Notícias sobre a Modafy](https://josetelmo.github.io/modafy/noticias/)
   - Salvar as notícias coletadas em um arquivo CSV.
-  - Conteúdo da aula: [scraper de notícias](https://josetelmo.github.io/modafy/scraper-de-noticias)
+  - Conteúdo da aula: [scraper de notícias](#)
 
 ### 3. Coleta e Análise de Postagens nas Redes Sociais:
 - Utilizar o NTscraper para coletar postagens relacionadas à Modafy.
@@ -22,7 +22,7 @@ O objetivo deste trabalho é capacitar os alunos a realizarem uma análise compl
   - URL do JSON: [modafy.json](https://raw.githubusercontent.com/josetelmo/modafy/main/twitter/assets/modafy.json)
   - Salvar as postagens coletadas em um arquivo CSV.
   - Analisar a origem do problema com base nas postagens dos usuários.
-  - Conteúdo da aula: [Analisando Tweets com NTScraper](https://josetelmo.github.io/modafy/nts-scraper)
+  - Conteúdo da aula: [Analisando Tweets com NTScraper](#)
 
 ### 4. Relatório Final:
 - Os alunos devem elaborar um relatório final, contemplando os seguintes pontos:
