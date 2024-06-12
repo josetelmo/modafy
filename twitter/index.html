@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Twitter Simulation</title>
+</head>
+<body>
+
+    <header>
+        <div class="nav-links">
+            <a href="">
+                
+                <img src="assets/images/favicon.png">
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    home
+                </i>
+                <span>Página Inicial</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    tag
+                </i>
+                <span>Explorar</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    notifications
+                </i>
+                <span>Notificações</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    email
+                </i>
+                <span>Mensagens</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    bookmark_border
+                </i>
+                <span>Favoritos</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    list_alt
+                </i>
+                <span>Listas</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    person
+                </i>
+                <span>Perfil</span>
+            </a>
+            <a href="">
+                <i class="material-icons-outlined">
+                    more
+                </i>
+                <span>Mais</span>
+            </a>
+            <button class="tweet-button">
+                Postar
+            </button>
+        </div>
+
+        <div class="main-account">
+            <a href="">
+                <img class="tweet-img" src="assets/images/profilepic24.png" alt="Usuário Principal">
+                <div class="account-details">
+                    <span class="account-name">José Telmo</span>
+                    <span class="account-handle">@josetelmo</span>
+                </div>
+                <i class="material-icons-outlined">
+                    more_horiz
+                </i>
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <div class="main-flex">
+            <div class="main-feed">
+                <div class="home-bar">
+                    <span>Home</span>
+                    <i class="material-icons-outlined">auto_awesome</i>
+                </div>
+                <div class="new-tweet">
+                    <img class="tweet-img" src="assets/images/profilepic24.png" alt="Usuário Principal">
+                    <div class="new-tweet-details">
+                        <input type="text" placeholder="O que está acontecendo?">
+                        <div class="new-tweet-actions">
+                            <ul>
+                                <li>
+                                    <i class="material-icons-outlined">image</i>
+                                </li>
+                                <li>
+                                    <i class="material-icons-outlined">gif_box</i>
+                                </li>
+                                <li>
+                                    <i class="material-icons-outlined">poll</i>
+                                </li>
+                                <li>
+                                    <i class="material-icons-outlined">sentiment_satisfied</i>
+                                </li>
+                                <li>
+                                    <i class="material-icons-outlined">event</i>
+                                </li>
+                            </ul>
+                            <button class="tweet-button">Postar</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="feed-tweets"></div>
+            </div>
+
+            <div class="side-feed">
+                <div class="search">
+                    <input type="text" placeholder="Buscar">
+                </div>
+                <div class="trending">
+                    <h1 class="h1-title">O que está acontecendo</h1>
+                    <div class="trending-item">
+                        <div class="item-category">
+                            <span>Assunto do momento</span>
+                            <i class="material-icons-outlined">more_horiz</i>
+                        </div>
+                        <p>Time vence campeonato</p>
+                        <span>100K Tweets</span>
+                    </div>
+                    <div class="trending-item">
+                        <div class="item-category">
+                            <span>Assunto do momento</span>
+                            <i class="material-icons-outlined">more_horiz</i>
+                        </div>
+                        <p>Filme estreia</p>
+                        <span>100K Tweets</span>
+                    </div>
+                    <div class="trending-item">
+                        <div class="item-category">
+                            <span>Assunto do momento</span>
+                            <i class="material-icons-outlined">more_horiz</i>
+                        </div>
+                        <p>Preço do feijão</p>
+                        <span>100K Tweets</span>
+                    </div>
+                    <div class="trending-item">
+                        <div class="item-category">
+                            <span>Assunto do momento</span>
+                            <i class="material-icons-outlined">more_horiz</i>
+                        </div>
+                        <p>Python</p>
+                        <span>100K Tweets</span>
+                    </div>
+                    <div class="trending-item">
+                        <div class="item-category">
+                            <span>Assunto do momento</span>
+                            <i class="material-icons-outlined">more_horiz</i>
+                        </div>
+                        <p>José Telmo</p>
+                        <span>100K Tweets</span>
+                    </div>
+                    <a href="" class="show-more">Mostrar mais</a>
+                </div>
+                <div class="follow">
+                    <h1 class="h1-title">Quem seguir</h1>
+                    <div class="follow-profile">
+                        <div class="follow-cont">
+                        <img class="tweet-img" src="assets/images/profilepic24.png" alt="">
+                        <div class="follow-details">
+                            <a href="">José Telmo</a>
+                            <span>@josetelmo <span id="follows">segue você</span></span>
+                        </div>
+                    </div>
+                        <button class="tweet-button">Seguir</button>
+                    </div>
+                    <div class="follow-profile">
+                        <div class="follow-cont">
+                        <img class="tweet-img" src="assets/images/g1.jpg" alt="G1">
+                        <div class="follow-details">
+                            <a href="">G1</a>
+                            <span>@g1</span>
+                        </div>
+                    </div>
+                        <button class="tweet-button">Seguir</button>
+                    </div>
+                    <a class="show-more" href="#">Mostrar mais</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="assets/script.js"></script>
+
+</body>
+</html>
