@@ -1,4 +1,4 @@
-# 👕AV2: Análise de Crise na Empresa Modafy
+# 👕Análise de Crise na Empresa Modafy
 
 ## Objetivo:
 O objetivo deste trabalho é capacitar os alunos a realizarem uma análise completa de uma crise empresarial fictícia, utilizando técnicas de coleta e análise de dados. **A empresa alvo é a Modafy, um e-commerce de moda online**, que está enfrentando uma série de reclamações do público, resultando em uma crise de imagem e cobertura negativa na mídia.
