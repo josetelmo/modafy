@@ -135,8 +135,7 @@ main {
 
 .main-feed {
     width: 50%;
-    border-left: 1px solid rgb(47, 51, 54);
-    border-right: 1px solid rgb(47, 51, 54);
+    border: 1px solid rgb(47, 51, 54);
 }
 
 .home-bar {
@@ -547,4 +546,8 @@ div.tweet-icons > div {
 .tweet-icons i {
     font-size: 20px;
     margin-right: 5px;
+}
+
+#feed-tweets > div > div > div.tweet-icons > div:nth-child(4) > i{
+    display: none;
 }

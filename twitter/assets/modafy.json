@@ -159,7 +159,7 @@
                 "name": "Eli",
                 "profile_pic": "assets/images/profilepic12.png"
             },
-            "text": "As roupas da ModaFy não duram muito.",
+            "text": "Mto ruim! As roupas da ModaFy não duram muito.",
             "stats": {
                 "likes": 6,
                 "quotes": 1,
@@ -173,7 +173,7 @@
                 "name": "Gabi",
                 "profile_pic": "assets/images/profilepic13.png"
             },
-            "text": "A ModaFy tem um excelente serviço de devolução.",
+            "text": "Pra mim, a ModaFy tem um excelente serviço de devolução.",
             "stats": {
                 "likes": 10,
                 "quotes": 2,
@@ -621,7 +621,7 @@
                 "name": "Max",
                 "profile_pic": "assets/images/profilepic20.png"
             },
-            "text": "Desconfio da qualidade das roupas da ModaFy.",
+            "text": "Concordo com @alex. Desconfio da qualidade das roupas da ModaFy.",
             "stats": {
                 "likes": 5,
                 "quotes": 1,
@@ -789,18 +789,18 @@
                 "name": "Alex",
                 "profile_pic": "assets/images/profilepic07.png"
             },
-            "text": "Desapontado com a qualidade das roupas da ModaFy.",
+            "text": "Desapontado com a qualidade da ModaFy. Empresa Lixo!",
             "stats": {
-                "likes": 6,
-                "quotes": 1,
-                "retweets": 3,
-                "comments": 2
+                "likes": 5606,
+                "quotes": 1302,
+                "retweets": 3550,
+                "comments": 760
             },
             "link": "https://xuitter.com/user57/status/57"
         },
         {
             "user": {
-                "name": "Alex",
+                "name": "Brit",
                 "profile_pic": "assets/images/profilepic08.png"
             },
             "text": "ModaFy tem as melhores roupas para o verão.",
@@ -839,6 +839,20 @@
                 "comments": 2
             },
             "link": "https://xuitter.com/user60/status/60"
+        }, 
+        {
+            "user": {
+                "name": "Duda",
+                "profile_pic": "assets/images/profilepic16.png"
+            },
+            "text": "Uhu! Chegou minha compra modafy <3",
+            "stats": {
+                "likes": 3,
+                "quotes": 1,
+                "retweets": 1,
+                "comments": 22
+            },
+            "link": "https://xuitter.com/user60/status/61"
         }
     ]
 }
