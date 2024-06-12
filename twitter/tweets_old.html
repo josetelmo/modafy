@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulação de Página do Twitter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+        .tweet {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .tweet h3 {
+            margin-top: 0;
+            font-size: 18px;
+        }
+        .tweet p {
+            margin: 10px 0;
+        }
+        .stats {
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Simulação de Página do Twitter</h1>
+<div id="tweets"></div>
+
+<script>
+    // URL do arquivo JSON
+    const url = 'https://raw.githubusercontent.com/josetelmo/modafy/main/modafy.json';
+
+    // Função para buscar e exibir tweets
+    async function fetchTweets() {
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+
+            const tweetsContainer = document.getElementById('tweets');
+            data.tweets.forEach(tweet => {
+                const tweetElement = document.createElement('div');
+                tweetElement.className = 'tweet';
+
+                const userElement = document.createElement('h3');
+                userElement.textContent = tweet.user.name;
+                tweetElement.appendChild(userElement);
+
+                const textElement = document.createElement('p');
+                textElement.textContent = tweet.text;
+                tweetElement.appendChild(textElement);
+
+                const statsElement = document.createElement('div');
+                statsElement.className = 'stats';
+                statsElement.textContent = `Likes: ${tweet.stats.likes} | Quotes: ${tweet.stats.quotes} | Retweets: ${tweet.stats.retweets} | Comments: ${tweet.stats.comments}`;
+                tweetElement.appendChild(statsElement);
+
+                tweetsContainer.appendChild(tweetElement);
+            });
+        } catch (error) {
+            console.error('Erro ao buscar tweets:', error);
+        }
+    }
+
+    
+    fetchTweets();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,545 @@
+{
+  "tweets": [
+    {
+      "user": { "name": "User1" },
+      "text": "A ModaFy tem ótimos produtos!",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user1/status/1"
+    },
+    {
+      "user": { "name": "User2" },
+      "text": "Não gostei da última coleção da ModaFy.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user2/status/2"
+    },
+    {
+      "user": { "name": "User3" },
+      "text": "Comprei na ModaFy e adorei a qualidade!",
+      "stats": { "likes": 8, "quotes": 0, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user3/status/3"
+    },
+    {
+      "user": { "name": "User4" },
+      "text": "A entrega da ModaFy foi super rápida!",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 6, "comments": 5 },
+      "link": "https://twitter.com/user4/status/4"
+    },
+    {
+      "user": { "name": "User5" },
+      "text": "Ótimo atendimento ao cliente na ModaFy.",
+      "stats": { "likes": 9, "quotes": 1, "retweets": 3, "comments": 1 },
+      "link": "https://twitter.com/user5/status/5"
+    },
+    {
+      "user": { "name": "User6" },
+      "text": "ModaFy tem preços muito altos.",
+      "stats": { "likes": 4, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user6/status/6"
+    },
+    {
+      "user": { "name": "User7" },
+      "text": "Adorei as promoções da ModaFy!",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user7/status/7"
+    },
+    {
+      "user": { "name": "User8" },
+      "text": "A ModaFy tem uma variedade incrível de roupas.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 6, "comments": 3 },
+      "link": "https://twitter.com/user8/status/8"
+    },
+    {
+      "user": { "name": "User9" },
+      "text": "Os tamanhos das roupas da ModaFy são pequenos.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user9/status/9"
+    },
+    {
+      "user": { "name": "User10" },
+      "text": "Comprei um vestido na ModaFy e amei!",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user10/status/10"
+    },
+    {
+      "user": { "name": "User11" },
+      "text": "ModaFy sempre tem novidades incríveis.",
+      "stats": { "likes": 11, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user11/status/11"
+    },
+    {
+      "user": { "name": "User12" },
+      "text": "As roupas da ModaFy não duram muito.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user12/status/12"
+    },
+    {
+      "user": { "name": "User13" },
+      "text": "A ModaFy tem um excelente serviço de devolução.",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user13/status/13"
+    },
+    {
+      "user": { "name": "User14" },
+      "text": "As roupas da ModaFy são muito confortáveis.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user14/status/14"
+    },
+    {
+      "user": { "name": "User15" },
+      "text": "ModaFy precisa melhorar a qualidade das roupas.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user15/status/15"
+    },
+    {
+      "user": { "name": "User16" },
+      "text": "Recomendo a ModaFy para todos meus amigos.",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user16/status/16"
+    },
+    {
+      "user": { "name": "User17" },
+      "text": "ModaFy tem a melhor coleção de verão!",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user17/status/17"
+    },
+    {
+      "user": { "name": "User18" },
+      "text": "As cores das roupas da ModaFy são vibrantes.",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user18/status/18"
+    },
+    {
+      "user": { "name": "User19" },
+      "text": "ModaFy tem um ótimo programa de fidelidade.",
+      "stats": { "likes": 11, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user19/status/19"
+    },
+    {
+      "user": { "name": "User20" },
+      "text": "Adorei o site da ModaFy, fácil de usar.",
+      "stats": { "likes": 13, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user20/status/20"
+    },
+    {
+      "user": { "name": "User1" },
+      "text": "A ModaFy tem ótimos produtos!",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user1/status/1"
+    },
+    {
+      "user": { "name": "User2" },
+      "text": "Não gostei da última coleção da ModaFy.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user2/status/2"
+    },
+    {
+      "user": { "name": "User3" },
+      "text": "Comprei na ModaFy e adorei a qualidade!",
+      "stats": { "likes": 8, "quotes": 0, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user3/status/3"
+    },
+    {
+      "user": { "name": "User4" },
+      "text": "A entrega da ModaFy foi super rápida!",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 6, "comments": 5 },
+      "link": "https://twitter.com/user4/status/4"
+    },
+    {
+      "user": { "name": "User5" },
+      "text": "Ótimo atendimento ao cliente na ModaFy.",
+      "stats": { "likes": 9, "quotes": 1, "retweets": 3, "comments": 1 },
+      "link": "https://twitter.com/user5/status/5"
+    },
+    {
+      "user": { "name": "User6" },
+      "text": "ModaFy tem preços muito altos.",
+      "stats": { "likes": 4, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user6/status/6"
+    },
+    {
+      "user": { "name": "User7" },
+      "text": "Adorei as promoções da ModaFy!",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user7/status/7"
+    },
+    {
+      "user": { "name": "User8" },
+      "text": "A ModaFy tem uma variedade incrível de roupas.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 6, "comments": 3 },
+      "link": "https://twitter.com/user8/status/8"
+    },
+    {
+      "user": { "name": "User9" },
+      "text": "Os tamanhos das roupas da ModaFy são pequenos.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user9/status/9"
+    },
+    {
+      "user": { "name": "User10" },
+      "text": "Comprei um vestido na ModaFy e amei!",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user10/status/10"
+    },
+    {
+      "user": { "name": "User11" },
+      "text": "ModaFy sempre tem novidades incríveis.",
+      "stats": { "likes": 11, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user11/status/11"
+    },
+    {
+      "user": { "name": "User12" },
+      "text": "As roupas da ModaFy não duram muito.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user12/status/12"
+    },
+    {
+      "user": { "name": "User13" },
+      "text": "A ModaFy tem um excelente serviço de devolução.",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user13/status/13"
+    },
+    {
+      "user": { "name": "User14" },
+      "text": "As roupas da ModaFy são muito confortáveis.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user14/status/14"
+    },
+    {
+      "user": { "name": "User15" },
+      "text": "ModaFy precisa melhorar a qualidade das roupas.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user15/status/15"
+    },
+    {
+      "user": { "name": "User16" },
+      "text": "Recomendo a ModaFy para todos meus amigos.",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user16/status/16"
+    },
+    {
+      "user": { "name": "User17" },
+      "text": "ModaFy tem a melhor coleção de verão!",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user17/status/17"
+    },
+    {
+      "user": { "name": "User18" },
+      "text": "As cores das roupas da ModaFy são vibrantes.",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user18/status/18"
+    },
+    {
+      "user": { "name": "User19" },
+      "text": "ModaFy tem um ótimo programa de fidelidade.",
+      "stats": { "likes": 11, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user19/status/19"
+    },
+    {
+      "user": { "name": "User20" },
+      "text": "Adorei o site da ModaFy, fácil de usar.",
+      "stats": { "likes": 13, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user20/status/20"
+    },
+    {
+      "user": { "name": "User21" },
+      "text": "As roupas da ModaFy são muito baratas, desconfio da qualidade.",
+      "stats": { "likes": 4, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user21/status/21"
+    },
+    {
+      "user": { "name": "User22" },
+      "text": "A ModaFy é minha loja favorita!",
+      "stats": { "likes": 16, "quotes": 2, "retweets": 6, "comments": 4 },
+      "link": "https://twitter.com/user22/status/22"
+    },
+    {
+      "user": { "name": "User23" },
+      "text": "A qualidade das roupas da ModaFy caiu muito.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user23/status/23"
+    },
+    {
+      "user": { "name": "User24" },
+      "text": "Estou muito satisfeito com minhas compras na ModaFy.",
+      "stats": { "likes": 14, "quotes": 2, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user24/status/24"
+    },
+    {
+      "user": { "name": "User25" },
+      "text": "ModaFy tem as melhores promoções.",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user25/status/25"
+    },
+    {
+      "user": { "name": "User26" },
+      "text": "Desconfio da procedência dos materiais da ModaFy.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user26/status/26"
+    },
+    {
+      "user": { "name": "User27" },
+      "text": "As roupas da ModaFy são super estilosas!",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user27/status/27"
+    },
+    {
+      "user": { "name": "User28" },
+      "text": "Minha experiência com a ModaFy foi incrível.",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user28/status/28"
+    },
+    {
+      "user": { "name": "User29" },
+      "text": "ModaFy precisa ser mais transparente sobre seus fornecedores.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user29/status/29"
+    },
+    {
+      "user": { "name": "User30" },
+      "text": "Recebi muitos elogios pelas roupas que comprei na ModaFy.",
+      "stats": { "likes": 14, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user30/status/30"
+    },
+    {
+      "user": { "name": "User31" },
+      "text": "A qualidade das roupas da ModaFy é péssima.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user31/status/31"
+    },
+    {
+      "user": { "name": "User32" },
+      "text": "As roupas da ModaFy são de procedência duvidosa.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user32/status/32"
+    },
+    {
+      "user": { "name": "User53" },
+      "text": "As roupas da ModaFy são de baixa qualidade.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user53/status/53"
+    },
+    {
+      "user": { "name": "User54" },
+      "text": "Muito satisfeito com a minha última compra na ModaFy!",
+      "stats": { "likes": 16, "quotes": 2, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user54/status/54"
+    },
+    {
+      "user": { "name": "User55" },
+      "text": "Os preços na ModaFy são justos pela qualidade oferecida.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user55/status/55"
+    },
+    {
+      "user": { "name": "User56" },
+      "text": "ModaFy oferece um ótimo atendimento ao cliente.",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user56/status/56"
+    },
+    {
+      "user": { "name": "User57" },
+      "text": "Desapontado com a qualidade das roupas da ModaFy.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user57/status/57"
+    },
+    {
+      "user": { "name": "User58" },
+      "text": "ModaFy tem as melhores roupas para o verão.",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user58/status/58"
+    },
+    {
+      "user": { "name": "User59" },
+      "text": "Roupas da ModaFy são sempre de alta qualidade.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user59/status/59"
+    },
+    {
+      "user": { "name": "User60" },
+      "text": "ModaFy precisa melhorar a qualidade dos seus materiais.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user60/status/60"
+    },
+    {
+      "user": { "name": "User61" },
+      "text": "Adoro comprar na ModaFy, sempre satisfeita!",
+      "stats": { "likes": 16, "quotes": 2, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user61/status/61"
+    },
+    {
+      "user": { "name": "User62" },
+      "text": "A ModaFy tem um ótimo serviço de devolução.",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user62/status/62"
+    },
+    {
+      "user": { "name": "User63" },
+      "text": "A qualidade das roupas da ModaFy é duvidosa.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 2, "comments": 2 },
+      "link": "https://twitter.com/user63/status/63"
+    },
+    {
+      "user": { "name": "User64" },
+      "text": "ModaFy é sempre minha primeira escolha para roupas.",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user64/status/64"
+    },
+    {
+      "user": { "name": "User65" },
+      "text": "As roupas da ModaFy são estilosas e confortáveis.",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user65/status/65"
+    },
+    {
+      "user": { "name": "User66" },
+      "text": "ModaFy precisa ser mais transparente sobre seus fornecedores.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user66/status/66"
+    },
+    {
+      "user": { "name": "User67" },
+      "text": "ModaFy tem um ótimo programa de fidelidade.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user67/status/67"
+    },
+    {
+      "user": { "name": "User68" },
+      "text": "Desconfio da procedência dos materiais usados pela ModaFy.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user68/status/68"
+    },
+    {
+      "user": { "name": "User69" },
+      "text": "Amo a variedade de roupas na ModaFy.",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user69/status/69"
+    },
+    {
+      "user": { "name": "User70" },
+      "text": "As roupas da ModaFy são muito confortáveis.",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user70/status/70"
+    },
+    {
+      "user": { "name": "User71" },
+      "text": "ModaFy precisa melhorar a transparência sobre seus materiais.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user71/status/71"
+    },
+    {
+      "user": { "name": "User72" },
+      "text": "Estou muito feliz com minhas compras na ModaFy.",
+      "stats": { "likes": 16, "quotes": 2, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user72/status/72"
+    },
+    {
+      "user": { "name": "User73" },
+      "text": "ModaFy oferece um ótimo serviço de devolução.",
+      "stats": { "likes": 10, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user73/status/73"
+    },
+    {
+      "user": { "name": "User74" },
+      "text": "ModaFy é uma loja de confiança.",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user74/status/74"
+    },
+    {
+      "user": { "name": "User75" },
+      "text": "A qualidade das roupas da ModaFy é inconsistente.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 2, "comments": 2 },
+      "link": "https://twitter.com/user75/status/75"
+    },
+    {
+      "user": { "name": "User76" },
+      "text": "ModaFy tem roupas lindas e confortáveis.",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user76/status/76"
+    },
+    {
+      "user": { "name": "User77" },
+      "text": "As roupas da ModaFy são perfeitas para todas as ocasiões.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user77/status/77"
+    },
+    {
+      "user": { "name": "User78" },
+      "text": "ModaFy tem um ótimo atendimento pós-venda.",
+      "stats": { "likes": 12, "quotes": 2, "retweets": 4, "comments": 2 },
+      "link": "https://twitter.com/user78/status/78"
+    },
+    {
+      "user": { "name": "User79" },
+      "text": "ModaFy é a minha primeira escolha para moda.",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user79/status/79"
+    },
+    {
+      "user": { "name": "User80" },
+      "text": "Desconfio da qualidade das roupas da ModaFy.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user80/status/80"
+    },
+    {
+      "user": { "name": "User81" },
+      "text": "ModaFy tem uma ótima variedade de roupas.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user81/status/81"
+    },
+    {
+      "user": { "name": "User82" },
+      "text": "ModaFy precisa ser mais transparente sobre a procedência dos materiais.",
+      "stats": { "likes": 6, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user82/status/82"
+    },
+    {
+      "user": { "name": "User83" },
+      "text": "As roupas da ModaFy são incríveis!",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 6, "comments": 4 },
+      "link": "https://twitter.com/user83/status/83"
+    },
+    {
+      "user": { "name": "User84" },
+      "text": "Estou muito satisfeito com a ModaFy.",
+      "stats": { "likes": 16, "quotes": 2, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user84/status/84"
+    },
+    {
+      "user": { "name": "User85" },
+      "text": "ModaFy precisa melhorar a qualidade das suas roupas.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user85/status/85"
+    },
+    {
+      "user": { "name": "User86" },
+      "text": "A ModaFy sempre entrega no prazo.",
+      "stats": { "likes": 13, "quotes": 2, "retweets": 4, "comments": 3 },
+      "link": "https://twitter.com/user86/status/86"
+    },
+    {
+      "user": { "name": "User87" },
+      "text": "ModaFy é a minha loja de roupas favorita!",
+      "stats": { "likes": 15, "quotes": 3, "retweets": 5, "comments": 4 },
+      "link": "https://twitter.com/user87/status/87"
+    },
+    {
+      "user": { "name": "User88" },
+      "text": "A qualidade das roupas da ModaFy caiu.",
+      "stats": { "likes": 5, "quotes": 1, "retweets": 2, "comments": 1 },
+      "link": "https://twitter.com/user88/status/88"
+    },
+    {
+      "user": { "name": "User89" },
+      "text": "A ModaFy tem roupas muito boas.",
+      "stats": { "likes": 14, "quotes": 3, "retweets": 5, "comments": 3 },
+      "link": "https://twitter.com/user89/status/89"
+    },
+    {
+      "user": { "name": "User90" },
+      "text": "ModaFy precisa ser mais clara sobre a procedência dos materiais.",
+      "stats": { "likes": 7, "quotes": 1, "retweets": 3, "comments": 2 },
+      "link": "https://twitter.com/user90/status/90"
+    }
+  ]
+}
+
