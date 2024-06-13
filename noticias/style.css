@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #dadada;
 }
 header {
     background-color: #c4161c;
@@ -10,9 +10,29 @@ header {
     padding: 10px 0;
     text-align: center;
 }
-main {
-    padding: 20px;
+h1 {
+    margin: 0;
 }
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.titulo{
+
+}
+
+.descricao{
+    font-style: italic;
+}
+
+.categoria{
+    font-size: 0.8em;
+}
+
 article {
     display: flex;
     align-items: flex-start;
@@ -27,6 +47,7 @@ article img {
     height: 100px;
     margin-right: 20px;
     border-radius: 5px;
+    background-color: lightgray;
 }
 article div {
     max-width: 800px;
