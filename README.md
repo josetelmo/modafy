@@ -36,10 +36,11 @@ O objetivo deste trabalho é capacitar os alunos a realizarem uma análise compl
 - **Formato de Entrega:** O relatório deve ser entregue em formato PDF, e os arquivos CSV e de Programação (Arquivos do Google Colab .ipynb) devem ser anexados.
 
 ## Ferramentas Necessárias:
-- Google Colab para executar o NTscraper.
-- Conhecimentos básicos de Python e bibliotecas como `requests`, `BeautifulSoup` e `pandas`.
-- Para baixar o arquivo .ipynb basta ir em Arquivo > Fazer Download > Baixar o .ipynb
-- [Para baixar o arquivo .csv](https://www.google.com/search?q=como+baixar+arquivo+csv+no+google+colab) basta ir no ícone de pastas, selecionar o arquivo, ir no menu de 3 pontos e clicar em download.
+- [Google Colab](https://colab.research.google.com/drive/)
+  - Seus arquivos ficam salvos em seu Google Drive, na pasta Colab Notebooks
+  - [Para baixar o arquivo .ipynb](https://www.google.com/search?q=como+baixar+arquivo+ipynb+no+google+colab) basta ir em Arquivo > Fazer Download > Baixar o .ipynb
+  - [Para baixar o arquivo .csv](https://www.google.com/search?q=como+baixar+arquivo+csv+no+google+colab) basta ir no ícone de pastas, selecionar o arquivo, ir no menu de 3 pontos e clicar em download.
+- Consulte as aulas anteriores sobre as bibliotecas `requests`, `BeautifulSoup` e `pandas`.
 
 ## Avaliação:
 A avaliação será baseada na completude e qualidade da análise, clareza e coesão do relatório, e a capacidade de identificar problemas e propor soluções viáveis.
