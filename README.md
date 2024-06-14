@@ -9,7 +9,6 @@ O objetivo deste trabalho é capacitar os alunos a realizarem uma análise compl
 ### 1. Leitura da Nota de Imprensa:
 - Os alunos devem acessar e ler a nota de imprensa emitida pela Modafy em resposta à crise.
 - URL: [Nota de Imprensa da Modafy](https://josetelmo.github.io/modafy/imprensa/)
-- URL: <a href="https://josetelmo.github.io/modafy/imprensa/" target="_blank">Nota de Imprensa da Modafy</a>
 
 ### 2. Coleta e Análise de Notícias:
 - Utilizar o Scraper para coletar todas as notícias relacionadas à Modafy.
