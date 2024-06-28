@@ -1,7 +1,7 @@
 # 👕Análise de Crise na Empresa Modafy
 
 ## Objetivo:
-O objetivo deste trabalho é capacitar os alunos a realizarem uma análise completa de uma crise empresarial fictícia, utilizando técnicas de coleta e análise de dados. **A empresa alvo é a Modafy, um e-commerce de moda online**, que está enfrentando uma série de reclamações do público, resultando em uma crise de imagem e cobertura negativa na mídia.
+O objetivo deste trabalho é capacitar os alunos a realizarem uma completa análise de uma crise de imagem e reputação empresarial fictícia, utilizando técnicas de coleta e análise de dados. **A empresa alvo é a Modafy, um e-commerce de moda online**, que está enfrentando uma série de reclamações do público, resultando em uma crise de imagem e cobertura negativa na mídia.
 ![Modafy Banner](https://josetelmo.github.io/modafy/imprensa/modafy-banner.png)
 
 ## Passos a serem seguidos:
